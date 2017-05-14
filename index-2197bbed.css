@@ -15,3 +15,9 @@ p { color: white; }
 
 /* line 13, /home/luz/clients/middleman_apps/website/source/assets/stylesheets/index.sass */
 strong { color: white; }
+
+/* line 15, /home/luz/clients/middleman_apps/website/source/assets/stylesheets/index.sass */
+nav { color: #aac7d9; cursor: pointer; }
+
+/* line 18, /home/luz/clients/middleman_apps/website/source/assets/stylesheets/index.sass */
+.sidenav { height: 100%; width: 0; position: fixed; z-index: 1; top: 0; left: 0; background-color: #111111; overflow-x: hidden; transition: 0.5s; padding-top: 60px; }
